@@ -1,4 +1,4 @@
-package com.example.ted_analyzer;
+package com.example.ted_analyzer.summary;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpMethod;
